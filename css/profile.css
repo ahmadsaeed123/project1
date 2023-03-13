@@ -1,0 +1,31 @@
+body{
+background-color: aliceblue;
+}
+.signup-form{
+    position: relative;
+ 
+}
+.form-group{
+    padding-bottom: 10px;
+}
+.form-group input{
+    width: 800px;
+height: 30px;
+padding: 10px;
+}
+.buttonsave{
+    color: white;
+    border: none;
+    background-color:rgb(96, 156, 247);
+    padding: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+.buttonsave:hover{
+    background-color: black;
+    color: white;
+}
